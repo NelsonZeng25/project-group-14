@@ -7,9 +7,9 @@
 |-------------|-----------|----------------|--------|
 | Steven Luu  | ***REMOVED*** | to be replaced | 000    |
 | Nelson Zeng | ***REMOVED*** | to be replaced | 000    |
-| Mehdi Ammar | 260XXXXXX | to be replaced | 000    |
+| Mehdi Ammar | ***REMOVED*** | to be replaced | 000    |
 | Mert Gurkan | ***REMOVED*** | to be replaced | 000    |
-| Tian Ci Liu | 260XXXXXX | to be replaced | 000    |
+| Tian Ci Liu | ***REMOVED*** | to be replaced | 000    |
 
 Project Description:
 	
