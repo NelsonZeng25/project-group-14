@@ -16,21 +16,21 @@ Tools that were used include: Eclipse, Spring Boot, Gradle, UML Lab, Heroku, Dra
 
 | Members    | ID       | Responsibility| Hours |
 |-------------|-----------|----------------|--------|
-| Steven Luu  | ***REMOVED*** | Product Manager | 14    | 
-| Nelson Zeng | ***REMOVED*** | Software Lead | 15    | 
-| Mehdi Ammar | ***REMOVED*** | Testing Lead | 14    |
-| Mert Gurkan | ***REMOVED*** | Documentation Lead | 12    |
-| Tian Ci Liu | ***REMOVED*** | Design Lead | 17    | XX    |
+| Steven Luu  | ***REMOVED*** | Documentation and Model | 14    | 
+| Nelson Zeng | ***REMOVED*** | Unit tests and Repository | 15    | 
+| Mehdi Ammar | ***REMOVED*** | UML Model and Tests | 14    |
+| Mert Gurkan | ***REMOVED*** | Documentation and Tests | 12    |
+| Tian Ci Liu | ***REMOVED*** | UML Model and Tests | 17    | XX    |
 
 ### Sprint 2
 
 | Members    | ID         | Responsibility    | Hours | 
 |-------------|-----------|-------------------|-------|
-| Steven Luu  | ***REMOVED*** | XXXXXXXXXXXXXXXXX | XX    | 
-| Nelson Zeng | ***REMOVED*** | XXXXXXXXXXXXXXXXX | XX    |
-| Mehdi Ammar | ***REMOVED*** | XXXXXXXXXXXXXXXXX | XX    | 
-| Mert Gurkan | ***REMOVED*** | XXXXXXXXXXXXXXXXX | XX    |
-| Tian Ci Liu | ***REMOVED*** | XXXXXXXXXXXXXXXXX | XX    | 
+| Steven Luu  | ***REMOVED*** | Service and Documentation | 20    | 
+| Nelson Zeng | ***REMOVED*** | Controller and Tests | 20    |
+| Mehdi Ammar | ***REMOVED*** | Tests and Controller | 20    | 
+| Mert Gurkan | ***REMOVED*** | Documentation and Controller | 20    |
+| Tian Ci Liu | ***REMOVED*** | Service and Tests | 20    | 
 
 ## Sprint 1
 You can access sprint 1 [here](https://github.com/McGill-ECSE321-Fall2019/project-group-14/wiki/Sprint-1).
