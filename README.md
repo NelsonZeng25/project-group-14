@@ -36,11 +36,11 @@ Tools that were used include: Eclipse, Spring Boot, Gradle, UML Lab, Heroku, Dra
 
 | Members    | ID         | Responsibility    | Hours | 
 |-------------|-----------|-------------------|-------|
-| Steven Luu  | ***REMOVED*** | Notification and Login Frontend Implementation                  |       | 
-| Nelson Zeng | ***REMOVED*** | Schedule and View Request Frontend Implementation               |       |
-| Mehdi Ammar | ***REMOVED*** | Welcome Screen, Application Form and Review Frontend Implementation       |       | 
-| Mert Gurkan | ***REMOVED*** | Architecture Modelling and Documentation                  |       |
-| Tian Ci Liu | ***REMOVED*** | Tutor Wages and Settings Frontend Implementation                  |       | 
+| Steven Luu  | ***REMOVED*** | Notification and Login Frontend Implementation                  |   26    | 
+| Nelson Zeng | ***REMOVED*** | Schedule and View Request Frontend Implementation               |   23    |
+| Mehdi Ammar | ***REMOVED*** | Welcome Screen, Application Form and Review Frontend Implementation       |   24    | 
+| Mert Gurkan | ***REMOVED*** | Architecture Modelling and Documentation                  |   19    |
+| Tian Ci Liu | ***REMOVED*** | Tutor Wages and Settings Frontend Implementation and Backend fixes                  |   27    | 
 
 ## Sprint 1
 You can access sprint 1 [here](https://github.com/McGill-ECSE321-Fall2019/project-group-14/wiki/Sprint-1).
