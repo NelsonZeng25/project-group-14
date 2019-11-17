@@ -39,7 +39,7 @@ Tools that were used include: Eclipse, Spring Boot, Gradle, UML Lab, Heroku, Dra
 | Steven Luu  | ***REMOVED*** | Notification and Login Frontend Implementation                  |       | 
 | Nelson Zeng | ***REMOVED*** | Schedule and View Request Frontend Implementation               |       |
 | Mehdi Ammar | ***REMOVED*** | Welcome Screen, Application Form and Review Frontend Implementation       |       | 
-| Mert Gurkan | ***REMOVED*** | Archtecture Modelling and Documentation                  |       |
+| Mert Gurkan | ***REMOVED*** | Architecture Modelling and Documentation                  |       |
 | Tian Ci Liu | ***REMOVED*** | Tutor Wages and Settings Frontend Implementation                  |       | 
 
 ## Sprint 1
