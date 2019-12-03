@@ -46,11 +46,11 @@ Tools that were used include: Eclipse, Spring Boot, Gradle, UML Lab, Heroku, Dra
 
 | Members    | ID         | Responsibility    | Hours | 
 |-------------|-----------|-------------------|-------|
-| Steven Luu  | ***REMOVED*** |                   |       | 
-| Nelson Zeng | ***REMOVED*** |                   |       |
-| Mehdi Ammar | ***REMOVED*** |                   |       | 
-| Mert Gurkan | ***REMOVED*** |                   |       |
-| Tian Ci Liu | ***REMOVED*** |                   |       | 
+| Steven Luu  | ***REMOVED*** | Notification and Documentation                  | 15      | 
+| Nelson Zeng | ***REMOVED*** | Schedule                  | 13      |
+| Mehdi Ammar | ***REMOVED*** | View Review                  | 16      | 
+| Mert Gurkan | ***REMOVED*** | User Documentation, website and Android                  | 11      |
+| Tian Ci Liu | ***REMOVED*** | Login, Settings, Wage                  | 15      | 
 
 
 ## Sprint 1
